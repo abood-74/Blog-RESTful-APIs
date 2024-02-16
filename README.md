@@ -1,7 +1,6 @@
 # API for Professionals Book Project
 
-This project is a practical implementation of the code examples from the book "API for Professionals" by William S. Vincent. The primary goal is to learn and practice building RESTful APIs using Python and Django.
-
+This project is a practical implementation of the code examples from the book "API for Professionals" by William S. Vincent. 
 ## Features
 
 The API provides the following features:
